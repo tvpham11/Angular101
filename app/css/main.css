@@ -1,0 +1,6 @@
+.container {
+  width: 400px;
+  margin: 50px auto; }
+
+.status-true {
+  text-decoration: line-through; }
